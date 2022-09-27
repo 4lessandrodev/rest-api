@@ -24,8 +24,8 @@
     "posteinstein": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix --quiet"
   },
   "dependencies": {
-    "@nestjs/common": "^9.1.1",
-    "@nestjs/core": "^9.1.1",
+    "@nestjs/common": "^9.1.2",
+    "@nestjs/core": "^9.1.2",
     "@nestjs/platform-express": "^9.0.0",
     "@nestjs/swagger": "^6.1.2",
     "env-var": "^7.3.0",
@@ -46,7 +46,7 @@
     "@types/node": "^18.7.17",
     "@types/supertest": "^2.0.11",
     "@typescript-eslint/eslint-plugin": "^5.38.0",
-    "@typescript-eslint/parser": "^5.36.1",
+    "@typescript-eslint/parser": "^5.38.1",
     "einstein-cli": "^0.0.18",
     "einstein-cli": "^0.0.6",
     "eslint": "^8.23.1",
