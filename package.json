@@ -46,7 +46,7 @@
     "@types/node": "^18.8.1",
     "@types/supertest": "^2.0.11",
     "@typescript-eslint/eslint-plugin": "^5.38.0",
-    "@typescript-eslint/parser": "^5.39.0",
+    "@typescript-eslint/parser": "^5.40.0",
     "einstein-cli": "^0.0.18",
     "einstein-cli": "^0.0.18",
     "einstein-cli": "^0.0.6",
