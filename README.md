@@ -1,4 +1,4 @@
-# Einstein Template - Rest Api
+# Template - Rest Api
 
 Este template possui comandos automatizados para gerar componentes para a construção do backend.
 Os comandos podem ser executados com:
