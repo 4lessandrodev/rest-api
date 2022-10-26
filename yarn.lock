@@ -2337,14 +2337,6 @@ ee-first@1.1.1:
   resolved "https://registry.yarnpkg.com/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
-einstein-cli@^0.0.18:
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/einstein-cli/-/einstein-cli-0.0.18.tgz#24eacb7bdb8c73ab84cd8947ef95ff882e4973ad"
-  integrity sha512-4pmlO9NSYcMZGrURjcjwF8YnK/3J5nY64UYgh6hNt4MrijWt24gq2o4KEflC6mK63Wf9SHsn81ZdoHcqqlwUVA==
-  dependencies:
-    module-alias "^2.2.2"
-    tar "^6.1.11"
-
 electron-to-chromium@^1.4.202:
   version "1.4.230"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.230.tgz#666909fdf5765acb1348b69752ee9955dc1664b7"
@@ -4528,7 +4520,7 @@ q@^1.5.1:
   resolved "https://registry.yarnpkg.com/q/-/q-1.5.1.tgz#7e32f75b41381291d04611f1bf14109ac00651d7"
   integrity sha512-kV/CThkXo6xyFEZUugw/+pIOywXcDbFYgSct5cT3gqlbkBE1SJdwy6UQoZvodiWF/ckQLZyDE/Bu1M6gVu5lVw==
 
-qs@6.11.0, qs@^6.10.3:
+qs@6.11.0, qs@^6.11.0:
   version "6.11.0"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.11.0.tgz#fd0d963446f7a65e1367e01abd85429453f0c37a"
   integrity sha512-MvjoMCJwEarSbUYk5O+nmoSzSutSsTwF85zcHPQ9OrlFoZOYIjaqBAJIqIXjptyD5vThxGq52Xu/MaJzRkIk4Q==
@@ -4539,13 +4531,6 @@ qs@6.9.3:
   version "6.9.3"
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.3.tgz#bfadcd296c2d549f1dffa560619132c977f5008e"
   integrity sha512-EbZYNarm6138UKKq46tdx08Yo/q9ZhFoAXAI1meAFd2GtbRDhbZY2WQSICskT0c5q99aFzLG1D4nvTk9tqfXIw==
-
-qs@^6.11.0:
-  version "6.11.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.11.0.tgz#fd0d963446f7a65e1367e01abd85429453f0c37a"
-  integrity sha512-MvjoMCJwEarSbUYk5O+nmoSzSutSsTwF85zcHPQ9OrlFoZOYIjaqBAJIqIXjptyD5vThxGq52Xu/MaJzRkIk4Q==
-  dependencies:
-    side-channel "^1.0.4"
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -5408,6 +5393,14 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==
+
+types-ddd-cli@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/types-ddd-cli/-/types-ddd-cli-1.0.2.tgz#82a7a4046624b537a96ffeabf8f798d88f5a8c58"
+  integrity sha512-ANizW6uJsZjkBRbIMoiv1so2CBWEKDBwWgqg7g8t+djSR1OD0fa13dcLLENlv59pfiWlQjX1x6ma9F9It/Yfcg==
+  dependencies:
+    module-alias "^2.2.2"
+    tar "^6.1.11"
 
 types-ddd@^3.3.0:
   version "3.3.0"

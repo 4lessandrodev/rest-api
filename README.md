@@ -24,16 +24,16 @@ Utilizando a cli com yarn
 
 ```sh
 
-$ yarn einstein
+$ yarn types-ddd
 
 ```
-![](docs/doc.png)
+![](docs/print.png)
 
 Utilizando a cli com npm
 
 ```sh
 
-$ npm run einstein
+$ npm run types-ddd
 
 ```
 
