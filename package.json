@@ -33,7 +33,7 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.8.0",
-    "types-ddd": "^3.3.7"
+    "types-ddd": "^3.4.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
