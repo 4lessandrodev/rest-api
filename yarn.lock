@@ -892,10 +892,10 @@
   resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-1.2.2.tgz#d9ddb143776e309dbc1a518ac1607fddac1e140e"
   integrity sha512-3dHxLXs3M0GPiriAcCFFJQHoDFUuzTD5w6JDhE7TyfT89YKpe6tcCCIqOZWdXmt9AZjjK30RkHRSFF+QEnWFQg==
 
-"@nestjs/platform-express@^9.3.3":
-  version "9.3.3"
-  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-9.3.3.tgz#d5d787452914d17a13cff9de9bea19f8ee76bbe0"
-  integrity sha512-OaYLyDdU7haYxiuAP3iptIrtzvEso/HSfEH0aTgiB5+ZraZTJm1obBGXsga282HhE5emh2s9NFo89qchQ1R6bg==
+"@nestjs/platform-express@^9.3.9":
+  version "9.3.9"
+  resolved "https://registry.yarnpkg.com/@nestjs/platform-express/-/platform-express-9.3.9.tgz#557ace8589b54d4ee7bad87a1247a521058395d7"
+  integrity sha512-f8ja2sYuDGj2QSMmjg05n3WF19wJG5yTiYxRi64nsu5GKL0qLM1LzxNemehkni/knExlvF2bDpbKKpna9nC1JA==
   dependencies:
     body-parser "1.20.1"
     cors "2.8.5"
@@ -5451,11 +5451,6 @@ tsconfig-paths@4.1.2, tsconfig-paths@^4.0.0:
     json5 "^2.2.2"
     minimist "^1.2.6"
     strip-bom "^3.0.0"
-
-tslib@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
-  integrity sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA==
 
 tslib@2.5.0, tslib@^2.1.0:
   version "2.5.0"
