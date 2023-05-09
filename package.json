@@ -27,7 +27,7 @@
     "@nestjs/core": "^9.4.0",
     "@nestjs/common": "^9.4.0",
     "@nestjs/platform-express": "^9.4.0",
-    "@nestjs/swagger": "^6.2.1",
+    "@nestjs/swagger": "^6.3.0",
     "env-var": "^7.3.0",
     "helmet": "^6.1.5",
     "reflect-metadata": "^0.1.13",
